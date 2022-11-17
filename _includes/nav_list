@@ -15,11 +15,11 @@
           {% endif %}
 
           {% comment %} My Edits {% endcomment %}
-          {% comment %} {% if nav.url contains "pdf" %}
+          {% if nav.url contains "pdf" %}
             <a href="{{ domain }}{{ nav.url }}" target="_blank"><span class="nav__sub-title">{{ nav.title }}</span></a>
           {% else %}
             <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
-          {% endif %} {% endcomment %}
+          {% endif %}
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
