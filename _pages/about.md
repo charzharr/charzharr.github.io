@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-- My name is Charley Y. Zhang and I am current a 5th year Ph.D. student in the University of Notre Dame's Computer Science and Engineerg department. My doctoral advisor is [Dr. Danny Z. Chen](https://engineering.nd.edu/faculty/danny-chen/). 
 
+My name is Charley Yejia Zhang (章业佳) and I am current a 5th year Ph.D. student at the University of Notre Dame in the Computer Science and Engineerg department. My doctoral advisor is [Dr. Danny Z. Chen](https://engineering.nd.edu/faculty/danny-chen/).  
+
+My research focuses on developing new deep-learning-based computer vision approaches to tackle limited annotations for biomedical imaging tasks.  
+
+
+*Currently looking for 2023 summer and fall internships* 😊  
+
+
+Projects 
+======
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
