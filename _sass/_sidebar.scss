@@ -24,6 +24,8 @@
     }
   }
 
+  width: calc(25%)
+
 
   @include breakpoint($x-large) {
     padding-right: 0;

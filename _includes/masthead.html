@@ -15,7 +15,7 @@
             {% endif %}
 
             {% if link.url contains ".pdf" %}
-              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank"><img src="images/download_icon.png" width="16px" height="16px"> {{ link.title }}</a></li>
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank"><img src="images/download_icon.png" width="32px" height="32px"> {{ link.title }}</a></li>
               <!-- <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank"><img src="images/download_icon.png" alt="{{ link.title }}"></a></li> -->
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
