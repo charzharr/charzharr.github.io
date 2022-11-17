@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charley Y. Zhang"
+title                    : "Charley's Site"
 title_separator          : "-"
 name                     : &name "Charley Y. Zhang"
 description              : &description "personal description"
