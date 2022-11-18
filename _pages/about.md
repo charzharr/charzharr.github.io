@@ -14,7 +14,7 @@ My doctoral advisor is [Dr. Danny Z. Chen](https://engineering.nd.edu/faculty/da
 Previously, I received a B.S. in Computer Engineering from the University of California, San Diego (UCSD). 
 I have over **8 years of coding experience** from research, making tools for in-lab machine learning & biomedical imaging pipelines, extra-curricular projects, and industry internships where I led the development of internal production systems. 
 
-My research focuses on developing new deep-learning-based **computer vision approaches to tackle limited annotations for biomedical imaging tasks** (e.g., 2D & 3D anatomical structure segmentation, insect tracking & social dynamics analysis, automated medical diagnostics) where we have extensively collaboarated with 6 institutions across 3 countries.  
+My research focuses on developing new deep-learning-based **computer vision approaches to tackle limited annotations for biomedical imaging tasks** (e.g., 2D & 3D anatomical structure segmentation, insect tracking & social dynamics analysis, automated medical diagnostics) where we have extensively collaborated with 6 institutions across 3 countries.  
 
 
 
