@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[📂 Download Resume](https://charzharr.github.io/files/resume_2211.pdf)
+[📂 Download Resume](https://charzharr.github.io/files/resume_2312.pdf)
