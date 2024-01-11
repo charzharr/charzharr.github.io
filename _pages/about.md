@@ -18,7 +18,7 @@ My research focuses on developing new deep-learning-based **computer vision appr
 
 
 
-*Currently looking for 2023 summer and fall internships* 😊  
+*Currently looking for 2024 summer internships and fall full-time* 😊  
 
 
 
