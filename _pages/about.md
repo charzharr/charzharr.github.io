@@ -31,7 +31,7 @@ Selected Publications
 ------
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_swipe.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_swipe.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
     <u>Charley Y. Zhang</u>, Pengfei Gu, Nischal Sapkota, Danny Z. Chen.<br>
@@ -42,7 +42,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:250px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model.</strong><br>
     Yizhe Zhang, Tao Zhou, Shuo Wang, <u>Charley Y. Zhang</u>, Peixian Liang, Danny Z. Chen.<br>
