@@ -55,7 +55,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_vectorpose.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>A Point in the Right Direction: Vector Prediction for Spatially-aware Self-supervised Volumetric Representation Learning.</strong><be>
+    <strong>A Point in the Right Direction: Vector Prediction for Spatially-aware Self-supervised Volumetric Representation Learning.</strong><br>
     <u>Charley Y. Zhang</u>, Pengfei Gu, Nishchal Sapkota, Hao Zheng, Peixian Liang, Danny Z. Chen.<br>
     <em>International Symposium on Biomedical Imaging</em> (ISBI, Oral, 15% acceptance), 2023.<br>
     <a href="https://arxiv.org/abs/2211.08533" target="_blank">Paper</a>
@@ -66,7 +66,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation.</strong><be>
+    <strong>Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation.</strong><br>
     <u>Charley Y. Zhang</u>, Xinrong Hu, Nishchal Sapkota, Yiyu Shi, Danny Z. Chen.<br>
     <em>International Conference on Bioinformatics and Biomedicine</em> (BIBM, 20% acceptance), 2022.<br>
     <a href="https://arxiv.org/abs/2211.08557" target="_blank">Paper</a>
@@ -77,7 +77,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_spade.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><be>
+    <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
     <u>Charley Y. Zhang</u>, Nishchal Sapkota, Pengfei Gu, Yaopeng Peng, Hao Zheng, Danny Z. Chen.<br>
     <em>International Conference on Bioinformatics and Biomedicine</em> (BIBM, 20% acceptance), 2022.<br>
     <a href="https://arxiv.org/abs/2211.08643" target="_blank">Paper</a>
@@ -88,7 +88,7 @@ Selected Publications
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_sperm.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation.</strong><be>
+    <strong>Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation.</strong><br>
     <u>Charley Y. Zhang</u>, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, Danny Chen.<br>
     <em>International Symposium on Biomedical Imaging</em> (ISBI), 2022.<br>
     <a href="https://arxiv.org/abs/2202.07191" target="_blank">Paper</a>
