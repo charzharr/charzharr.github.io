@@ -13,10 +13,30 @@ My name is Charley Yejia Zhang (章业佳) and I am currently a **final year Ph.
 
 Previously, I received a B.S. in Computer Engineering from the University of California, San Diego (UCSD), specializing in machine learning. I have over **8 years of coding experience** from research, creating in-house machine learning libraries, personal projects, and industry positions involving production systems. 
 
-
-
-
 *Currently searching for 2024 fall full-time* 😊  
+
+
+News
+------
+* 02/2024: 📚 2 papers accepted to ISBI'24
+* 08/2023: 💼 Started AI research scientist co-op at Alibaba DAMO
+* 05/2023: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
+* 05/2023: 📚 1 paper accepted to MICCAI'23
+* 01/2023: 📚 3 papers accepted to ISBI'23 (3 orals)
+* 12/2022: 🎉 Passed PhD Candidacy Exam
+* 10/2022: 📚 2 papers accepted to BIBM'22 (15% acceptance rate)
+
+
+Selected Publications
+------
+
+![SwIPE Image Overview](/images/pub_preview_swipe.png)
+**SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.**  
+**Charley Y. Zhang**, Pengfei Gu, Nischal Sapkota, Danny Z. Chen.  
+In Proceedings of International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
+[Paper](https://arxiv.org/abs/2307.12429) | [Code](https://github.com/charzharr/miccai23-swipe-implicit-segmentation)
+
+
 
 
 
