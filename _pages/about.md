@@ -29,7 +29,7 @@ News
 Selected Publications
 ------
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_swipe.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
@@ -40,7 +40,7 @@ Selected Publications
 </div>
 ---
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model.</strong><br>
@@ -51,7 +51,7 @@ Selected Publications
 </div>
 ---
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_vectorpose.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>A Point in the Right Direction: Vector Prediction for Spatially-aware Self-supervised Volumetric Representation Learning.</strong><br>
@@ -62,7 +62,7 @@ Selected Publications
 </div>
 ---
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation.</strong><br>
@@ -73,7 +73,7 @@ Selected Publications
 </div>
 ---
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_spade.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
@@ -84,7 +84,7 @@ Selected Publications
 </div>
 ---
 
-<div style="display:flex;align-items:flex-start;">
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_sperm.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation.</strong><br>
