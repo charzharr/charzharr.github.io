@@ -50,8 +50,8 @@ Selected Publications
     <a href="https://arxiv.org/abs/2304.11332" target="_blank">Paper</a>
   </div>
 </div>
-
 ---
+
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_vectorpose.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
@@ -61,8 +61,8 @@ Selected Publications
     <a href="https://arxiv.org/abs/2211.08533" target="_blank">Paper</a>
   </div>
 </div>
-
 ---
+
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
@@ -72,8 +72,8 @@ Selected Publications
     <a href="https://arxiv.org/abs/2211.08557" target="_blank">Paper</a>
   </div>
 </div>
-
 ---
+
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_spade.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
@@ -83,8 +83,8 @@ Selected Publications
     <a href="https://arxiv.org/abs/2211.08643" target="_blank">Paper</a>
   </div>
 </div>
-
 ---
+
 <div style="display:flex;align-items:flex-start;">
   <img src="/images/pub_preview_sperm.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
