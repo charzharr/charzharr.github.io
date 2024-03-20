@@ -18,13 +18,13 @@ Previously, I received a B.S. in Computer Engineering from the University of Cal
 
 News
 ------
-* 02/2024: 📚 2 papers accepted to ISBI'24
-* 08/2023: 💼 Started AI research scientist co-op at Alibaba DAMO
-* 05/2023: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
-* 05/2023: 📚 1 paper accepted to MICCAI'23
-* 01/2023: 📚 3 papers accepted to ISBI'23 (3 orals)
-* 12/2022: 🎉 Passed PhD Candidacy Exam
-* 10/2022: 📚 2 papers accepted to BIBM'22 (15% acceptance rate)
+* 2024/02: 📚 2 papers accepted to ISBI'24
+* 2023/08: 💼 Started AI research scientist co-op at Alibaba DAMO
+* 2023/05: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
+* 2023/05: 📚 1 paper accepted to MICCAI'23
+* 2023/01: 📚 3 papers accepted to ISBI'23 (3 orals)
+* 2022/12: 🎉 Passed PhD Candidacy Exam
+* 2022/10: 📚 2 papers accepted to BIBM'22 (15% acceptance rate)
 
 
 Selected Publications
