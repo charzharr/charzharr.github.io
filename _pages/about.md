@@ -42,7 +42,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:250px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model.</strong><br>
     Yizhe Zhang, Tao Zhou, Shuo Wang, <u>Charley Y. Zhang</u>, Peixian Liang, Danny Z. Chen.<br>
@@ -53,7 +53,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_vectorpose.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_vectorpose.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>A Point in the Right Direction: Vector Prediction for Spatially-aware Self-supervised Volumetric Representation Learning.</strong><br>
     <u>Charley Y. Zhang</u>, Pengfei Gu, Nishchal Sapkota, Hao Zheng, Peixian Liang, Danny Z. Chen.<br>
@@ -64,7 +64,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation.</strong><br>
     <u>Charley Y. Zhang</u>, Xinrong Hu, Nishchal Sapkota, Yiyu Shi, Danny Z. Chen.<br>
@@ -75,7 +75,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_spade.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_spade.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Keep Your Friends Close & Enemies Farther: Debiasing Contrastive Learning with Spatial Priors in 3D Radiology Images.</strong><br>
     <u>Charley Y. Zhang</u>, Nishchal Sapkota, Pengfei Gu, Yaopeng Peng, Hao Zheng, Danny Z. Chen.<br>
@@ -86,7 +86,7 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_sperm.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_sperm.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Improving Human Sperm Head Morphology Classification with Unsupervised Anatomical Feature Distillation.</strong><br>
     <u>Charley Y. Zhang</u>, Jingjing Zhang, Xiaomin Zha, Yiru Zhou, Yunxia Cao, Danny Chen.<br>
