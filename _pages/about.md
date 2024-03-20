@@ -21,9 +21,9 @@ News
 * 2023/08: 💼 Started AI research scientist co-op at Alibaba DAMO
 * 2023/05: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
 * 2023/05: 📚 1 paper accepted to MICCAI'23
-* 2023/01: 📚 3 papers accepted to ISBI'23 (3 orals)
+* 2023/01: 📚 3 papers accepted to ISBI'23 (3 orals, 15% acceptance rate)
 * 2022/12: 🎉 Passed PhD Candidacy Exam
-* 2022/10: 📚 2 papers accepted to BIBM'22 (15% acceptance rate)
+* 2022/10: 📚 2 papers accepted to BIBM'22 (20% acceptance rate)
 
 
 Selected Publications
