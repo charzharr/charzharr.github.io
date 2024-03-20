@@ -66,7 +66,7 @@ Selected Publications
   <img src="/images/pub_preview_ufc.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>Unsupervised Feature Clustering Improves Contrastive Representation Learning for Medical Image Segmentation.</strong><br>
-    <u>Charley Y. Zhang</u>, Xinrong Hu, Nishchal Sapkota, Yiyu Shi, Danny Z. Chen.<br>
+    <u>Charley Y. Zhang</u>*, Xinrong Hu*, Nishchal Sapkota, Yiyu Shi, Danny Z. Chen.<br>
     <em>International Conference on Bioinformatics and Biomedicine</em> (BIBM, 20% acceptance), 2022.<br>
     <a href="https://arxiv.org/abs/2211.08557" target="_blank">Paper</a>
   </div>
