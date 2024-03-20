@@ -30,7 +30,7 @@ News
 Selected Publications
 ------
 
-![SwIPE Image Overview](/images/pub_preview_swipe.png)
+![SwIPE Image Overview](/images/pub_preview_swipe.png =250x)
 **SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.**  
 <ins>Charley Y. Zhang</ins>, Pengfei Gu, Nischal Sapkota, Danny Z. Chen.  
 In Proceedings of International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2023.  
