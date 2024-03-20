@@ -42,12 +42,12 @@ Selected Publications
 ---
 
 <div style="display:flex;align-items:flex-start;">
-  <img src="/images/pub_preview_swipe.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
+  <img src="/images/pub_preview_sam.png" alt="Publication Thumbnail" style="width:200px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
-    <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
-    <u>Charley Y. Zhang</u>, Pengfei Gu, Nischal Sapkota, Danny Z. Chen.<br>
-    <em>In Proceedings of International Conference on Medical Image Computing and Computer Assisted Interventions</em> (MICCAI), 2023.<br>
-    <a href="https://arxiv.org/abs/2307.12429" target="_blank">Paper</a> | <a href="https://github.com/charzharr/miccai23-swipe-implicit-segmentation" target="_blank">Code</a>
+    <strong>Input Augmentation with SAM: Boosting Medical Image Segmentation with Segmentation Foundation Model.</strong><br>
+    Yizhe Zhang, Tao Zhou, Shuo Wang, <u>Charley Y. Zhang</u>, Peixian Liang, Danny Z. Chen.<br>
+    <em>International Conference on Medical Image Computing and Computer Assisted Interventions Workshop</em> (MICCAI Workshop, Oral), 2023.<br>
+    <a href="https://arxiv.org/abs/2304.11332" target="_blank">Paper</a>
   </div>
 </div>
 
