@@ -18,7 +18,6 @@ Previously, I received a B.S. in Computer Engineering from the University of Cal
 
 News
 ------
-* 2024/02: 📚 2 papers accepted to ISBI'24
 * 2023/08: 💼 Started AI research scientist co-op at Alibaba DAMO
 * 2023/05: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
 * 2023/05: 📚 1 paper accepted to MICCAI'23
