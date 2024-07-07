@@ -37,7 +37,6 @@ Selected Publications
     <strong>IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.</strong><br>
     <u>Charley Y. Zhang</u>, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, Nischal Sapkota, Pengfei Gu, Danny Z. Chen, Yun Bian, Hui Jiang, Le Lu, Ke Yan, Dakai Jin.<br>
     <em>International Conference on Medical Image Computing and Computer Assisted Interventions</em> (MICCAI), 2024.<br>
-    <a href="https://arxiv.org/abs/2307.12429" target="_blank">Paper</a> | <a href="[https://github.com/charzharr/miccai23-swipe-implicit-segmentation](https://github.com/charzharr/miccai24-ihcsurv)" target="_blank">Code</a>
   </div>
 </div>
 ---
