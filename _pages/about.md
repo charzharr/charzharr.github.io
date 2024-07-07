@@ -32,6 +32,17 @@ Selected Publications
 ------
 
 <div style="display:flex;align-items:flex-start;" class="publication-entry">
+  <img src="/images/pub_preview_ihcsurv.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
+  <div>
+    <strong>IHCSurv: Effective Immunohistochemistry Priors for Cancer Survival Analysis in Gigapixel Multi-stain Whole Slide Images.</strong><br>
+    <u>Charley Y. Zhang</u>, Hanqing Chao, Zhongwei Qiu, Wenbin Liu, Yixuan Shen, Nischal Sapkota, Pengfei Gu, Danny Z. Chen, Yun Bian, Hui Jiang, Le Lu, Ke Yan, Dakai Jin.<br>
+    <em>International Conference on Medical Image Computing and Computer Assisted Interventions</em> (MICCAI), 2024.<br>
+    <a href="https://arxiv.org/abs/2307.12429" target="_blank">Paper</a> | <a href="[https://github.com/charzharr/miccai23-swipe-implicit-segmentation](https://github.com/charzharr/miccai24-ihcsurv)" target="_blank">Code</a>
+  </div>
+</div>
+---
+
+<div style="display:flex;align-items:flex-start;" class="publication-entry">
   <img src="/images/pub_preview_swipe.png" alt="Publication Thumbnail" style="width:300px;height:auto;object-fit:cover;margin-right:20px;">
   <div>
     <strong>SwIPE: Efficient and Robust Medical Image Segmentation with Implicit Patch Embeddings.</strong><br>
