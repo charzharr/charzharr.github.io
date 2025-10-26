@@ -13,12 +13,13 @@ My name is Charley Yejia Zhang (章业佳) and I am currently a **final year Ph.
 
 Previously, I received a B.S. in Computer Engineering from the University of California, San Diego (UCSD), specializing in machine learning. I have over **8 years of coding experience** from research, creating in-house machine learning libraries, personal projects, and industry positions involving production systems. 
 
-*Currently searching for full-time* 😊  
-
 
 News
 ------
-* 2024/07: 💼 Started computer vision/graphics internship at NVIDIA AI
+* 2025/02: 💼 Started full-time as senior computer vision and AI engineer at NVIDIA
+* 2024/12: 🎉 Defended PhD
+* 2024/10: 💼 Started computer vision and AI engineer internship at NVIDIA
+* 2024/06: 💼 Started machine learning engineer internship at Stripe
 * 2024/06: 📚 1 paper accepted to MICCAI'24
 * 2023/08: 💼 Started AI research scientist co-op at Alibaba DAMO
 * 2023/07: 📚 2 papers accepted to MICCAI'23 workshops (2 orals)
